@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypalculate",
+        "uuid": 15521380,
+        "checksum": "6hsmuk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
